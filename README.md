@@ -10,6 +10,3 @@ A module enquiry system that might be used in replacement for the Blue Castle in
 
 ## Author
 Jiafu Zhang
-
-## Module
-G54DIS
