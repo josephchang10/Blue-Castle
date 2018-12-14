@@ -6,6 +6,8 @@ A module enquiry system that might be used in replacement for the Blue Castle in
 
 ![](images/screenshot2.png)
 
+![](images/screenshot3.png)
+
 ## Running the system
 1. Open `index.php` or `login.php`.
 2. Login with default username(psxjz8) and password(123456).
