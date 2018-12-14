@@ -2,7 +2,8 @@
 A module enquiry system that might be used in replacement for the Blue Castle interface.
 
 ## Screenshot
-![](images/screenshot.png)
+![](images/screenshot1.png)
+![](images/screenshot2.png)
 
 ## Running the system
 1. Open `index.php` or `login.php`.
