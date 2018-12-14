@@ -9,7 +9,12 @@ A module enquiry system that might be used in replacement for the Blue Castle in
 ![](images/screenshot3.png)
 
 ## Running the system
-1. Open `index.php` or `login.php`.
+1. You can access the system through the link: http://mersey.cs.nott.ac.uk/~psxjz8/login.php
+
+or
+
+open the `index.php` or `login.php` file on a php server.
+
 2. Login with default username(psxjz8) and password(123456).
 
 ## Features
