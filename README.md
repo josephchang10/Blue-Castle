@@ -3,6 +3,7 @@ A module enquiry system that might be used in replacement for the Blue Castle in
 
 ## Screenshot
 ![](images/screenshot1.png)
+
 ![](images/screenshot2.png)
 
 ## Running the system
