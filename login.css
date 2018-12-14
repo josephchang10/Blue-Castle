@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+}
+
+a {
+    color: #036;
+}
+
+.login-illustration {
+    background-color: #f5f6f8;
+}
+
+.login-title {
+    font-size: 28px;
+    font-weight: 300;
+}
+
+.login-button {
+    background-color: #036;
+    border-color: #036;
+}

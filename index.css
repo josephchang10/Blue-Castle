@@ -1,0 +1,12 @@
+a {
+    color: #036;
+}
+
+.card {
+    border-radius: 20px;
+    min-height: 150px;
+}
+
+.card-img {
+    border-radius: 20px;
+}
