@@ -16,6 +16,7 @@ A module enquiry system that might be used in replacement for the Blue Castle in
 * My Modules Page
 * My Marks Page
 * Module Information Page
+* Log off function
 
 ## Author
 Jiafu Zhang
