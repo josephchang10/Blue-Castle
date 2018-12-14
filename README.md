@@ -1,4 +1,4 @@
-# Blue-Castle
+# Blue-Castle - Part six of G54DIS coursework
 A module enquiry system that might be used in replacement for the Blue Castle interface.
 
 ## Screenshot
